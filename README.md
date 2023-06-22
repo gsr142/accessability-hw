@@ -21,8 +21,8 @@ Practice changing HTML and CSS code to make it more readable and accessible, and
 
 **Gregory Richardson**
 
-[Github](https://github.com/gsr142)
-[LinkedIn](https://www.linkedin.com/in/gregory-richardson-7bb3a1280/)
+* [Github](https://github.com/gsr142)
+* [LinkedIn](https://www.linkedin.com/in/gregory-richardson-7bb3a1280/)
 
 ## Acknowledgements 
 Thank you to the instructors, my partners in class, and my family for putting up with my being at my desk all day.
