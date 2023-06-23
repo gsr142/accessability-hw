@@ -14,7 +14,7 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #ffffff; /*sets text color to white*/
 }
 
 header h1 {
@@ -23,7 +23,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+    color: #d9dcd6; /*makes the letters "seo" stand out in the word "horiseon"*/
 }
 
 header nav {
@@ -84,7 +84,7 @@ footer h3 {
 }
 
 .content {
-    width: 75%;
+    width: 75%; /* content class will occupy 75% of the page width */
     display: inline-block;
     margin-left: 20px;
 }
@@ -94,7 +94,7 @@ footer h3 {
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 20%; /* sets this section to ooccupy 20% of the page width */
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
